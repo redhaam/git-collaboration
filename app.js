@@ -39,3 +39,6 @@ function handleSubmit(e) {
     document.contact.reset(); 
 }
   
+function toggletheme() {
+  document.body.classList.toggle("darktheme");
+}

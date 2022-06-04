@@ -1,0 +1,13 @@
+#contenu {
+  list-style: none;
+  width: 25%;
+  margin-inline: auto;
+}
+#contenu > a {
+  text-decoration: none;
+  color: currentColor;
+}
+.darktheme {
+  color: white;
+  background-color: black;
+}
